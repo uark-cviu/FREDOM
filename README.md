@@ -18,6 +18,10 @@ have shown that our method achieved State-of-the-Art (SOTA) performance.
 
 The detail of our source code will be available soon.
 
+## Acknowledgment
+
+Our work is supported by NSF Data Science, Data Analytics that are Robust and Trusted (DART), NSF WVAR-CRESH, and Googler Initiated Research Grant. 
+We also thank the Arkansas High Performance Computing Center for providing GPUs.
 
 ## Citation
 If you find this code useful for your research, please consider citing:
