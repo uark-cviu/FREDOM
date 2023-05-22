@@ -1,6 +1,14 @@
 
 # [CVPR 2023] [FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding](https://arxiv.org/abs/2304.02135)
 
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fredom-fairness-domain-adaptation-approach-to/domain-adaptation-on-synthia-to-cityscapes)](https://paperswithcode.com/sota/domain-adaptation-on-synthia-to-cityscapes?p=fredom-fairness-domain-adaptation-approach-to)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fredom-fairness-domain-adaptation-approach-to/domain-adaptation-on-gta5-to-cityscapes)](https://paperswithcode.com/sota/domain-adaptation-on-gta5-to-cityscapes?p=fredom-fairness-domain-adaptation-approach-to)
+
+> [FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding](https://arxiv.org/abs/2304.02135)<br>
+> [Thanh-Dat Truong](https://truongthanhdat.github.io/), [Ngan Le](https://www.nganle.net/), [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/), [Jackson Cothren](https://fulbright.uark.edu/departments/geosciences/directory/index/uid/jcothre/name/Jackson+David+Cothren/) and [Khoa Luu](http://csce.uark.edu/~khoaluu)<br>
+> University of Arkansas, Computer Vision and Image Understanding Lab, CVIU<br>
+
 ## Abstract
 
 Although Domain Adaptation in Semantic Scene Segmentation has shown impressive improvement in recent years,
